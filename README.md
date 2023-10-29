@@ -5,7 +5,7 @@ I'm Ansh Kumar, a 19-year-old web developer from India.
 
 - 👨‍💻 I am passionate about Web Development, Competitive Coding and Software Development.
 
-- 👍 I love collaborating over code with new people and enjoy working in teams on projects.
+- 👍 I love collaborating with others and diving into exciting new projects.
 
 ## 📫 Connect with me:
 - [@AnshPlus1](https://twitter.com/AnshPlus1) on Twitter
