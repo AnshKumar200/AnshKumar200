@@ -1,7 +1,7 @@
 ## Hey! 👋
 I'm Ansh Kumar, a 19-year-old web developer from India.
 
-- 🔭 I'm a 2<sup>nd</sup> year undergrad pursuing a Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Bhopal, India.
+- 🔭 I'm a 3<sup>rd</sup> year undergrad pursuing a Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Bhopal, India.
 
 - 👨‍💻 I am passionate about Web Development, Competitive Coding and Software Development.
 
