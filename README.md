@@ -10,4 +10,4 @@ I'm Ansh Kumar, a 19-year-old web developer from India.
 ## 📫 Connect with me:
 - [@AnshPlus1](https://twitter.com/AnshPlus1) on Twitter
 - [Ansh Kumar](https://www.linkedin.com/in/anshkumar14/) on LinkedIn
-- [@kaiplus1](./) on Discord
+- [@ansh.plus](./) on Discord
