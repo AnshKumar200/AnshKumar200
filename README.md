@@ -1,13 +1,13 @@
-## Hey! 👋
-I'm Ansh Kumar, a 19-year-old web developer from India.
+## Hey!
+I'm Ansh Kumar, a 19-year-old web enthusiast based in India.
 
-- 🔭 I'm a 3<sup>rd</sup> year undergrad pursuing a Bachelor's in Computer Science and Engineering from Vellore Institute of Technology, Bhopal, India.
+- I'm a final year undergrad pursuing a Bachelor's in Computer Science and Engineering.
+- My main focus is on competitive programming and I enjoy applying my problem-solving skills to various software development challenges.
+- I am constantly exploring new technologies and am always eager to learn something new.
 
-- 👨‍💻 I am passionate about Web Development, Competitive Coding and Software Development.
-
-- 👍 I love collaborating with others and diving into exciting new projects.
-
-## 📫 Connect with me:
-- [@AnshPlus1](https://twitter.com/AnshPlus1) on Twitter
+## Connect with me:
+- [@anshplus1](https://x.com/anshplus1) on Twitter
 - [Ansh Kumar](https://www.linkedin.com/in/anshkumar14/) on LinkedIn
 - [@ansh.plus](./) on Discord
+
+Let's talk code, exchange brilliant ideas, or just send memes. I'm good with either.
