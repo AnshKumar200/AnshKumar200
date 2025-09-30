@@ -1,5 +1,5 @@
 ## Hey!
-I'm Ansh Kumar, a 19-year-old web enthusiast based in India.
+I'm Ansh Kumar, a 21-year-old web enthusiast based in India.
 
 - I'm a final year undergrad pursuing a Bachelor's in Computer Science and Engineering.
 - My main focus is on competitive programming and I enjoy applying my problem-solving skills to various software development challenges.
