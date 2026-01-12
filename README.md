@@ -1,13 +1,17 @@
-## Hey!
-I'm Ansh Kumar, a 21-year-old web enthusiast based in India.
+# Hey, I'm Ansh Kumar
+I'm a final-year Computer Science undergrad who enjoys building high-performance systems, scalable web apps and solving problems that actually hurt a little.
 
-- I'm a final year undergrad pursuing a Bachelor's in Computer Science and Engineering.
-- My main focus is on competitive programming and I enjoy applying my problem-solving skills to various software development challenges.
-- I am constantly exploring new technologies and am always eager to learn something new.
+I've qualified for **ICPC Regional Contest** and care deeply about clean architecture, performance, and correctness, whether it's backend systems, real-time apps, or algorithms.
 
-## Connect with me:
-- [@anshplus1](https://x.com/anshplus1) on Twitter
-- [Ansh Kumar](https://www.linkedin.com/in/anshkumar14/) on LinkedIn
-- [@ansh.plus](./) on Discord
+## What I Do
+* Build full-stack web applications with real users and real constraints
+* Write performance focused code
+* Enjoy competitive programming and algorithmic problem-solving
+* Contribute to open-source projects and collaborative engineering
 
-Let's talk code, exchange brilliant ideas, or just send memes. I'm good with either.
+## Connect With Me
+* **Twitter/X:** [@anshplus1](https://x.com/0xAnshh)
+* **LinkedIn:** [Ansh Kumar](https://www.linkedin.com/in/anshkumar14/)
+* **GitHub:** [https://github.com/AnshKumar200](https://github.com/AnshKumar200)
+
+Open to internships, full-time roles, and interesting collaborations.
