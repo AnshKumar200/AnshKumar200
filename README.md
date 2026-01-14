@@ -10,7 +10,7 @@ I've qualified for **ICPC Regional Contest** and care deeply about clean archite
 * Contribute to open-source projects and collaborative engineering
 
 ## Connect With Me
-* **Twitter/X:** [@anshplus1](https://x.com/0xAnshh)
+* **Twitter/X:** [@0xAnshh](https://x.com/0xAnshh)
 * **LinkedIn:** [Ansh Kumar](https://www.linkedin.com/in/anshkumar14/)
 * **GitHub:** [https://github.com/AnshKumar200](https://github.com/AnshKumar200)
 
